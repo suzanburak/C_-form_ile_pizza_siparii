@@ -1,0 +1,10 @@
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\bin\Debug\2.pizzacı.exe.config
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\bin\Debug\2.pizzacı.exe
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\bin\Debug\2.pizzacı.pdb
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\obj\Debug\2.pizzacı.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\obj\Debug\_2.pizzacı.Form1.resources
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\obj\Debug\_2.pizzacı.Properties.Resources.resources
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\obj\Debug\2.pizzacı.csproj.GenerateResource.cache
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\obj\Debug\2.pizzacı.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\obj\Debug\2.pizzacı.exe
+C:\Users\90535\source\repos\2.pizzacı\2.pizzacı\obj\Debug\2.pizzacı.pdb
